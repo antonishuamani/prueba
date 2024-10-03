@@ -6,3 +6,4 @@ despues de subir una nueva linea de texto ya no necestas:
 
 .git/config
 elimina la direccion del git para un repositorio que ya a sido creado
+end
