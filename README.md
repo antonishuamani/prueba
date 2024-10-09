@@ -9,6 +9,14 @@ despues de subir una nueva linea de texto ya no necestas:
 - git branch
 - git remot 
 
+tienes que escribir esto:
+
+$ git add nombre_archivo 
+$ git commit -m "Tu mensaje"
+
+git push origin nombre de la rama(main)
+
+
 .git/config
 elimina la direccion del git para un repositorio que ya a sido creado
 end
