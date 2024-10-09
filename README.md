@@ -14,7 +14,7 @@ tienes que escribir esto:
 $ git add nombre_archivo 
 $ git commit -m "Tu mensaje"
 
-git push origin nombre de la rama(main)
+$ git push -u origin nombre de la rama(main)
 
 
 .git/config
