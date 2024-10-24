@@ -20,3 +20,5 @@ $ git push -u origin nombre de la rama(main)
 .git/config
 elimina la direccion del git para un repositorio que ya a sido creado
 end
+
+probando algunas cosas
